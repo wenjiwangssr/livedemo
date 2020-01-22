@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Livedome</string>
+    <string name="camera">相机</string>
+    <string name="live_cover_2">更换封面</string>
+    <string name="live_beauty">美颜</string>
+    <string name="live_camera">翻转</string>
+    <string name="live_flash">闪光灯</string>
+    <string name="live_music">音乐</string>
+    <string name="live_end_live">关闭直播</string>
+    <string name="live_votes">收获</string>
+    <string name="live_end_ing">关播中</string>
+    <string name="live_anchor_leave">主播暂时离开</string>
+    <string name="live_anchor_come_back">主播回来啦</string>
+    <string name="live_play_error">播放失败</string>
+</resources>

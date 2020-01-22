@@ -1,0 +1,2 @@
+include ':app', ':beauty'
+rootProject.name='Livedome'
